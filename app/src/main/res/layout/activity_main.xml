@@ -56,6 +56,12 @@
                 android:orientation="vertical">
 
                 <Button
+                    android:id="@+id/helloworld"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="HelloWorld" />
+
+                <Button
                     android:id="@+id/personal1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -108,6 +114,24 @@
                     android:layout_width="342dp"
                     android:layout_height="wrap_content"
                     android:text="Data Passing intetnt" />
+
+                <Button
+                    android:id="@+id/menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu" />
+
+                <Button
+                    android:id="@+id/mainalert"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="AlertDialogue" />
+
+                <Button
+                    android:id="@+id/sharedp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Shared Preference" />
 
             </LinearLayout>
         </ScrollView>

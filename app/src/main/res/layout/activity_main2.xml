@@ -53,7 +53,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="4dp"
-                    android:text="Register No : KTE25MCA-2030"
+                    android:text="Register No : KTE25MCA-2043"
                     android:textColor="#4CAF50"
                     android:textSize="18sp"
                     android:textStyle="italic" />
